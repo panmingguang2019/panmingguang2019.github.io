@@ -12,8 +12,8 @@ tags:
 ---
 
 
-### [JAV高清名优](https://kswm.xyz)
+### [JAV高清名优](https://www.kswm.xyz)
 
-### 站二 [JAV高清名优](http://xkspp.com)
+### 站二 [JAV高清名优](http://www.kcgc.xyz)
 
 
