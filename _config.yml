@@ -5,7 +5,7 @@ header-img: img/home-bg-hzw.jpg
 email: panmingguang2019@gmail.com
 description: "永久分享地址"
 keyword: ""
-url: "https://panmingguang2019.github.io/"              # your host, for absolute URL
+url: "/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
